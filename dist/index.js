@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_5_fundamentals=self.webpackChunkwebpack_5_fundamentals||[]).push([[826],{497:(e,n,a)=>{"use strict";var t=a(486),c=a.n(t);console.log(c().join(["Index","module","loaded!"]," "));var d=document.createElement("p");d.textContent="I am injected from the JavaScript file.",document.querySelector("body").appendChild(d)}},0,[[497,486,712]]]);
