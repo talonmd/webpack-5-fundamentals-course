@@ -1,3 +1,5 @@
-import _ from "lodash"
+function sum(a, b) {
+  return a + b
+}
 
-console.log(_.join(["Sum", "module", "loaded!"], " "))
+export default sum
